@@ -163,7 +163,7 @@ I'm currently expanding my homelab to gain additional experience in:
 
 ## Connect With Me
 
-- LinkedIn: www.linkedin.com/in/YOURPROFILE
-- GitHub: github.com/YOURUSERNAME
+- LinkedIn: www.linkedin.com/in/christianfabbri
+- GitHub: github.com/CFabbri32
 
 Thank you for taking the time to review my projects and follow my IT journey.
